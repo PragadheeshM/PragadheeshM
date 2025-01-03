@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pragadheesh</h1>
 
 <p align="left"> <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="pragadheeshm" /> </p>
-<h3 align="center">A passionate full stack developer and data Scientists from India</h3>
+<h3 align="center"><b></b>A passionate full stack developer and data Scientists from India</b></h3>
 <img align="right" alt="Coding" width="400" src="https://edems.in/wp-content/uploads/2024/04/output-onlinegiftools.gif")>
 
 
