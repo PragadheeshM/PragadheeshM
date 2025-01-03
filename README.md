@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pragadheesh</h1>
-<img align="right" alt="Coding" width="400" src="https://edems.in/wp-content/uploads/2024/04/output-onlinegiftools.gif")>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragadheeshm&label=Profile%20views&color=0e75b6&style=flat" alt="pragadheeshm" /> </p>
-<h3 align="center">A passionate full stack developer and data Scientists from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragadheeshm" alt="pragadheeshm" /></a> </p>
+<p align="left"> <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="pragadheeshm" /> </p>
+<h3 align="center">A passionate full stack developer and data Scientists from India</h3>
+<img align="right" alt="Coding" width="400" src="https://edems.in/wp-content/uploads/2024/04/output-onlinegiftools.gif")>
+
 
 <p align="left"> <a href="https://twitter.com/pragadheesh4684" target="blank"><img src="https://img.shields.io/twitter/follow/pragadheesh4684?logo=twitter&style=for-the-badge" alt="pragadheesh4684" /></a> </p>
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me **pragadheeshpragadheesh75gmail.com**
 
 - ⚡ Fun fact **Coding is like magic; you write a few lines, and boom—something amazing happens on your screen!**
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragadheeshm" alt="pragadheeshm" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
