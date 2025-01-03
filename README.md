@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI, Data Science,and Web Development.**
 
-- 💬 Ask me about **react ,Machine learning,Data science**
+- 💬 Ask me about **web development ,Machine learning,Data science**
 
 - 📫 How to reach me **pragadheeshpragadheesh75gmail.com**
 
